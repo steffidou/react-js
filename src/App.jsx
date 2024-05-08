@@ -5,16 +5,6 @@ import Footer from './Footer';
 
 const App = () => {
   return (
-    <div>
-      <Header />
-      <div className="main-content">
-        <Sidebar />
-        {/* Main content of your application */}
-      </div>
-      <Footer />
-    </div>
-  );
-}
-
+    <div className=""
 export default App;
 
